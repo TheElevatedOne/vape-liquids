@@ -8,14 +8,15 @@ All links are for the CzechoSlovak Brand Vaprio
 4. [Basic 10ml Vape Liquids](#vape-liquids)
 ---
 ## Custom Mixes
-  ### Tropical Strawberry Ice
-  - 10ml [CHILL PILL - Truly Strawberry and Kiwi](https://www.vaprio.sk/produkt-chill-pill-truly-strawberry-and-kiwi-jahoda-a-kiwi-prichut-8877.html)
-  - 10ml [CHILL PILL - Kaktus](https://www.vaprio.sk/produkt-chill-pill-kaktus-psycho-lady-spike-ball-prichut-8880.html)
-  - [Ice Flavors](#ice-flavors)
-  ### Relaxing Apple Ice
-  - 10ml [CHILL PILL - Truly Apple](https://www.vaprio.sk/produkt-chill-pill-truly-apple-cervene-a-zelene-jablko-prichut-8876.html)
-  - 10ml [Big Mouth RETRO - Lemon & Cacti](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-citron-a-kaktus.html)
-  - [Ice Flavors](#ice-flavors)
+  ### Working
+    #### Tropical Strawberry Ice
+    - 10ml [CHILL PILL - Truly Strawberry and Kiwi](https://www.vaprio.sk/produkt-chill-pill-truly-strawberry-and-kiwi-jahoda-a-kiwi-prichut-8877.html)
+    - 10ml [CHILL PILL - Kaktus](https://www.vaprio.sk/produkt-chill-pill-kaktus-psycho-lady-spike-ball-prichut-8880.html)
+    - [Ice Flavors](#ice-flavors)
+    #### Relaxing Apple Ice
+    - 10ml [CHILL PILL - Truly Apple](https://www.vaprio.sk/produkt-chill-pill-truly-apple-cervene-a-zelene-jablko-prichut-8876.html)
+    - 10ml [Big Mouth RETRO - Lemon & Cacti](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-citron-a-kaktus.html)
+    - [Ice Flavors](#ice-flavors)
 
 ## Ice Flavors
   #### 1-2.5ml [BLACK LABEL - Menthol](https://www.vaprio.sk/produkt-imperia-black-label-mentol-prichut-9135.html)
