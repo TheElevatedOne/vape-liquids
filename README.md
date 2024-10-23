@@ -1,7 +1,12 @@
 # vape-liquids
 Temporary repository for storing my vape liquid mixes, until I finally create a functional github sites page
 All links are for the CzechoSlovak Brand Vaprio
-
+---
+1. [Custom Mixes](#custom-mixes)
+2. [Ice Flavors (to go along with Longfills or Custom)](#ice-flavors)
+3. [Shake & Vape/Longfills](#shake--vape-longfills)
+4. [Basic 10ml Vape Liquids](#vape-liquids)
+---
 ## Custom Mixes
   ### Tropical Strawberry Ice
   - 10ml [CHILL PILL - Truly Strawberry and Kiwi](https://www.vaprio.sk/produkt-chill-pill-truly-strawberry-and-kiwi-jahoda-a-kiwi-prichut-8877.html)
