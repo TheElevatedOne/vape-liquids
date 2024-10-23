@@ -17,7 +17,7 @@ All links are for the CzechoSlovak Brand Vaprio
   - 10ml [CHILL PILL - Truly Strawberry and Kiwi](https://www.vaprio.sk/produkt-chill-pill-truly-strawberry-and-kiwi-jahoda-a-kiwi-prichut-8877.html)
   - 10ml [CHILL PILL - Kaktus](https://www.vaprio.sk/produkt-chill-pill-kaktus-psycho-lady-spike-ball-prichut-8880.html)
   - [Ice Flavors](#ice-flavors)
-  ![cover image](https://raw.githubusercontent.com/TheElevatedOne/vape-liquids/refs/heads/main/covers/tropical-strawberry-ice-final.png)
+  <img src="https://raw.githubusercontent.com/TheElevatedOne/vape-liquids/refs/heads/main/covers/tropical-strawberry-ice-final.png" width="20%">
   #### Relaxing Apple Ice
   - 10ml [CHILL PILL - Truly Apple](https://www.vaprio.sk/produkt-chill-pill-truly-apple-cervene-a-zelene-jablko-prichut-8876.html)
   - 10ml [Big Mouth RETRO - Lemon & Cacti](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-citron-a-kaktus.html)
