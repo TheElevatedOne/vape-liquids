@@ -3,12 +3,15 @@ Temporary repository for storing my vape liquid mixes, until I finally create a 
 All links are for the CzechoSlovak Brand Vaprio
 ---
 1. [Custom Mixes](#custom-mixes)
-2. [Ice Flavors (to go along with Longfills or Custom)](#ice-flavors)
-3. [Shake & Vape/Longfills](#shake--vapelongfills)
-4. [Basic 10ml Vape Liquids](#vape-liquids)
+  - [Tested & Liked](#tested--liked)
+  - [Tested & Disliked](#tested--disliked)
+  - [Not Tested Yet](#not-tested-yer) 
+3. [Ice Flavors (to go along with Longfills or Custom)](#ice-flavors)
+4. [Shake & Vape/Longfills](#shake--vapelongfills)
+5. [Basic 10ml Vape Liquids](#vape-liquids)
 ---
 ## Custom Mixes
-  ### Working
+  ### Tested & Liked
   #### Tropical Strawberry Ice
   - 10ml [CHILL PILL - Truly Strawberry and Kiwi](https://www.vaprio.sk/produkt-chill-pill-truly-strawberry-and-kiwi-jahoda-a-kiwi-prichut-8877.html)
   - 10ml [CHILL PILL - Kaktus](https://www.vaprio.sk/produkt-chill-pill-kaktus-psycho-lady-spike-ball-prichut-8880.html)
@@ -17,6 +20,8 @@ All links are for the CzechoSlovak Brand Vaprio
   - 10ml [CHILL PILL - Truly Apple](https://www.vaprio.sk/produkt-chill-pill-truly-apple-cervene-a-zelene-jablko-prichut-8876.html)
   - 10ml [Big Mouth RETRO - Lemon & Cacti](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-citron-a-kaktus.html)
   - [Ice Flavors](#ice-flavors)
+  ### Tested & Disliked
+  ### Not Tested Yet
 
 ## Ice Flavors
   #### 1-2.5ml [BLACK LABEL - Menthol](https://www.vaprio.sk/produkt-imperia-black-label-mentol-prichut-9135.html)
