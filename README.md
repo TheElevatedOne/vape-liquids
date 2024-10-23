@@ -22,7 +22,23 @@ All links are for the CzechoSlovak Brand Vaprio
   - 10ml [Big Mouth RETRO - Lemon & Cacti](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-citron-a-kaktus.html)
   - [Ice Flavors](#ice-flavors)
   ### Tested & Disliked
+  #### Energi Tea Ice (Tastes like the smell refreshener that is put in toilet bowls)
+  - 10ml [CHILL PILL - Truly Energy Drink](https://www.vaprio.sk/produkt-chill-pill-truly-energy-drink-energeticky-napoj-prichut-8869.html)
+  - 10ml [Big Mouth Classic - Ice Tea](https://www.vaprio.sk/produkt-prichut-big-mouth-classic-ice-tea-ladovy-caj.html)
+  - [Ice Flavors](#ice-flavors)
   ### Not Tested Yet
+  #### Wild Grenade Ice
+  - [CHILL PILL - Pomegranate Blast](https://www.vaprio.sk/produkt-chill-pill-granatove-jablko-malaysian-chill-pomegranate-blast-prichut.html)
+  - [Big Mouth MPG - Wild Wolf](https://www.vaprio.sk/produkt-prichut-big-mouth-mpg-lesne-plody-wild-wolf.html)
+  - [Ice Flavors](#ice-flavors)
+  #### Double Mango Ice
+  - [CHILL PILL - Tropical Mango](https://www.vaprio.sk/produkt-chill-pill-tropicke-mango-hungry-wife-tropical-mango-prichut.html)
+  - [Big Mouth - Jungle Mango](https://www.vaprio.sk/produkt-prichut-big-mouth-mango-a-brusnica-jungle-mango.html)
+  - [Ice Flavors](#ice-flavors)
+  #### Sunny Melon Ice
+  - [CHILL PILL - Truly Watermelon](https://www.vaprio.sk/produkt-chill-pill-truly-watermelon-vodovy-melon-prichut-8878.html)
+  - [Big Mouth RETRO - Lime & Cherry](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-limetka-a-cherry.html)
+  - [Ice Flavors](#ice-flavors)
 
 ## Ice Flavors
   #### 1-2.5ml [BLACK LABEL - Menthol](https://www.vaprio.sk/produkt-imperia-black-label-mentol-prichut-9135.html)
