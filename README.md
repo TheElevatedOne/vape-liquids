@@ -37,6 +37,7 @@ All links are for the CzechoSlovak Brand Vaprio
   - 10ml [CHILL PILL - Truly Energy Drink](https://www.vaprio.sk/produkt-chill-pill-truly-energy-drink-energeticky-napoj-prichut-8869.html)
   - 10ml [Big Mouth Classic - Ice Tea](https://www.vaprio.sk/produkt-prichut-big-mouth-classic-ice-tea-ladovy-caj.html)
   - [Ice Flavors](#ice-flavors)
+  - What may have caused the taste is the Ice Tea flavor, since it is quite strong in there. I also heard, that it alone is quite bad tasting so maybe an alternative is needed.
   <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/energi-tea-ice-final.png?raw=true" width="20%">
   
   ### Not Tested Yet
