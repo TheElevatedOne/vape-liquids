@@ -3,9 +3,9 @@ Temporary repository for storing my vape liquid mixes, until I finally create a 
 All links are for the CzechoSlovak Brand Vaprio
 ---
 1. [Custom Mixes](#custom-mixes)
-  - [Tested & Liked](#tested--liked)
-  - [Tested & Disliked](#tested--disliked)
-  - [Not Tested Yet](#not-tested-yer) 
+    - [Tested & Liked](#tested--liked)
+    - [Tested & Disliked](#tested--disliked)
+    - [Not Tested Yet](#not-tested-yer) 
 3. [Ice Flavors (to go along with Longfills or Custom)](#ice-flavors)
 4. [Shake & Vape/Longfills](#shake--vapelongfills)
 5. [Basic 10ml Vape Liquids](#vape-liquids)
