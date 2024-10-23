@@ -39,6 +39,10 @@ All links are for the CzechoSlovak Brand Vaprio
   - [CHILL PILL - Truly Watermelon](https://www.vaprio.sk/produkt-chill-pill-truly-watermelon-vodovy-melon-prichut-8878.html)
   - [Big Mouth RETRO - Lime & Cherry](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-limetka-a-cherry.html)
   - [Ice Flavors](#ice-flavors)
+  #### Extreme Tea Ice
+  - [CHILL PILL - Iced Lemon Tea](https://www.vaprio.sk/produkt-chill-pill-ladovy-caj-s-citronom-karma-iced-lemon-tea-prichut-8879.html)
+  - [Big Mouth FIZZY - Peach, Lemon. Tea](https://www.vaprio.sk/produkt-prichut-big-mouth-fizzy-broskyna-citron-caj.html)
+  - [Ice Flavors](#ice-flavors)
 
 ## Ice Flavors
   #### 1-2.5ml [BLACK LABEL - Menthol](https://www.vaprio.sk/produkt-imperia-black-label-mentol-prichut-9135.html)
