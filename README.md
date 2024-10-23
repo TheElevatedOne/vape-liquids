@@ -24,6 +24,12 @@ All links are for the CzechoSlovak Brand Vaprio
   - 10ml [Big Mouth RETRO - Lemon & Cacti](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-citron-a-kaktus.html)
   - [Ice Flavors](#ice-flavors)
   <img src="https://raw.githubusercontent.com/TheElevatedOne/vape-liquids/refs/heads/main/covers/relaxing-apple-ice-final.png" width="20%">
+
+  #### Sunny Melon Ice
+  - 10ml [CHILL PILL - Truly Watermelon](https://www.vaprio.sk/produkt-chill-pill-truly-watermelon-vodovy-melon-prichut-8878.html)
+  - 2.5ml-5ml [Big Mouth RETRO - Lime & Cherry](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-limetka-a-cherry.html) [The cherry has a smell of Vodka and is quite strong, so be careful with the amount]
+  - [Ice Flavors](#ice-flavors)
+  <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/sunny-melon-ice-final.png?raw=true" width="20%">
   
   ### Tested & Disliked
   #### Energi Tea Ice (Tastes like the smell refreshener that is put in toilet bowls)
@@ -41,11 +47,6 @@ All links are for the CzechoSlovak Brand Vaprio
   - [CHILL PILL - Tropical Mango](https://www.vaprio.sk/produkt-chill-pill-tropicke-mango-hungry-wife-tropical-mango-prichut.html)
   - [Big Mouth - Jungle Mango](https://www.vaprio.sk/produkt-prichut-big-mouth-mango-a-brusnica-jungle-mango.html)
   - [Ice Flavors](#ice-flavors)
-  #### Sunny Melon Ice
-  - [CHILL PILL - Truly Watermelon](https://www.vaprio.sk/produkt-chill-pill-truly-watermelon-vodovy-melon-prichut-8878.html)
-  - [Big Mouth RETRO - Lime & Cherry](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-limetka-a-cherry.html)
-  - [Ice Flavors](#ice-flavors)
-  <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/sunny-melon-ice-final.png?raw=true" width="20%">
   
   #### Extreme Tea Ice
   - [CHILL PILL - Iced Lemon Tea](https://www.vaprio.sk/produkt-chill-pill-ladovy-caj-s-citronom-karma-iced-lemon-tea-prichut-8879.html)
