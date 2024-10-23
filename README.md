@@ -23,6 +23,8 @@ All links are for the CzechoSlovak Brand Vaprio
   - 10ml [CHILL PILL - Truly Apple](https://www.vaprio.sk/produkt-chill-pill-truly-apple-cervene-a-zelene-jablko-prichut-8876.html)
   - 10ml [Big Mouth RETRO - Lemon & Cacti](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-citron-a-kaktus.html)
   - [Ice Flavors](#ice-flavors)
+  <img src="https://raw.githubusercontent.com/TheElevatedOne/vape-liquids/refs/heads/main/covers/relaxing-apple-ice-final.png" width="20%">
+  
   ### Tested & Disliked
   #### Energi Tea Ice (Tastes like the smell refreshener that is put in toilet bowls)
   - 10ml [CHILL PILL - Truly Energy Drink](https://www.vaprio.sk/produkt-chill-pill-truly-energy-drink-energeticky-napoj-prichut-8869.html)
