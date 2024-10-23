@@ -4,7 +4,7 @@ All links are for the CzechoSlovak Brand Vaprio
 ---
 1. [Custom Mixes](#custom-mixes)
 2. [Ice Flavors (to go along with Longfills or Custom)](#ice-flavors)
-3. [Shake & Vape/Longfills](#shake--vape-longfills)
+3. [Shake & Vape/Longfills](#shake--vapelongfills)
 4. [Basic 10ml Vape Liquids](#vape-liquids)
 ---
 ## Custom Mixes
