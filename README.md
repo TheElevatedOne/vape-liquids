@@ -58,7 +58,7 @@ All links are for the CzechoSlovak Brand Vaprio
 ## Ice Flavors
   #### 1-2.5ml [BLACK LABEL - Menthol](https://www.vaprio.sk/produkt-imperia-black-label-mentol-prichut-9135.html)
   #### 5ml [BLACK LABEL - Koolada](https://www.vaprio.sk/produkt-imperia-black-label-koolada-prichut-9138.html)
-  - Amount is based on my preference
+  - Amount is based on my preference, the Menthol has quite a strong taste in there, Koolada is just freezing flavor, will go for Koolada in the future.
 
 ## Shake & Vape/Longfills
   ### Drippin Party (These I liked from all of them)
