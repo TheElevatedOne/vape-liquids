@@ -27,8 +27,9 @@ All links are for the CzechoSlovak Brand Vaprio
 
   #### Sunny Melon Ice
   - 10ml [CHILL PILL - Truly Watermelon](https://www.vaprio.sk/produkt-chill-pill-truly-watermelon-vodovy-melon-prichut-8878.html)
-  - 2.5ml-5ml [Big Mouth RETRO - Lime & Cherry](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-limetka-a-cherry.html) [The cherry has a smell of Vodka and is quite strong, so be careful with the amount]
+  - 2.5ml-5ml [Big Mouth RETRO - Lime & Cherry](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-limetka-a-cherry.html)
   - [Ice Flavors](#ice-flavors)
+  - The Cherry has a smell of Vodka and has quite a strong taste, be careful when mixing. Will look for an alternative if I have the time.
   <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/sunny-melon-ice-final.png?raw=true" width="20%">
   
   ### Tested & Disliked
