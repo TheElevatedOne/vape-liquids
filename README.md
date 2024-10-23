@@ -13,8 +13,8 @@ All links are for the CzechoSlovak Brand Vaprio
   - [Ice Flavors](#ice-flavors)
 
 ## Ice Flavors
-  ### 1-2.5ml [BLACK LABEL - Menthol](https://www.vaprio.sk/produkt-imperia-black-label-mentol-prichut-9135.html)
-  ### 5ml [BLACK LABEL - Koolada](https://www.vaprio.sk/produkt-imperia-black-label-koolada-prichut-9138.html)
+  #### 1-2.5ml [BLACK LABEL - Menthol](https://www.vaprio.sk/produkt-imperia-black-label-mentol-prichut-9135.html)
+  #### 5ml [BLACK LABEL - Koolada](https://www.vaprio.sk/produkt-imperia-black-label-koolada-prichut-9138.html)
   - Amount is based on my preference
 
 ## Shake & Vape/Longfills
@@ -29,6 +29,6 @@ All links are for the CzechoSlovak Brand Vaprio
   - [Green Apple](https://www.vaprio.sk/produkt-zap-juice-aisu-ladove-zelene-jablko-green-apple-shake-and-vape-10ml-8974.html)
 
 ## Vape Liquids
-  ### [Frutie](https://www.vaprio.sk/naplne/produkty?f_vyrobce=201|86) (A good basic brand) [Nicotine | from 0mg to 18gm]
-  ### [Drippin Party](https://www.vaprio.sk/naplne/produkty?f_vyrobce=291) (This is how I found it firstly) [Nicotine Salt | 10mg & 20mg]
-  ### [IVG](https://www.vaprio.sk/naplne/produkty?f_vyrobce=247) (I liked their drink flavors) [Nicotine Salt | 10mg & 20mg]
+  #### [Frutie](https://www.vaprio.sk/naplne/produkty?f_vyrobce=201|86) (A good basic brand) [Nicotine | from 0mg to 18gm]
+  #### [Drippin Party](https://www.vaprio.sk/naplne/produkty?f_vyrobce=291) (This is how I found it firstly) [Nicotine Salt | 10mg & 20mg]
+  #### [IVG](https://www.vaprio.sk/naplne/produkty?f_vyrobce=247) (I liked their drink flavors) [Nicotine Salt | 10mg & 20mg]
