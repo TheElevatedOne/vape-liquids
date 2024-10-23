@@ -30,6 +30,8 @@ All links are for the CzechoSlovak Brand Vaprio
   - 10ml [CHILL PILL - Truly Energy Drink](https://www.vaprio.sk/produkt-chill-pill-truly-energy-drink-energeticky-napoj-prichut-8869.html)
   - 10ml [Big Mouth Classic - Ice Tea](https://www.vaprio.sk/produkt-prichut-big-mouth-classic-ice-tea-ladovy-caj.html)
   - [Ice Flavors](#ice-flavors)
+  <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/energi-tea-ice-final.png?raw=true" width="20%">
+  
   ### Not Tested Yet
   #### Wild Grenade Ice
   - [CHILL PILL - Pomegranate Blast](https://www.vaprio.sk/produkt-chill-pill-granatove-jablko-malaysian-chill-pomegranate-blast-prichut.html)
@@ -43,6 +45,8 @@ All links are for the CzechoSlovak Brand Vaprio
   - [CHILL PILL - Truly Watermelon](https://www.vaprio.sk/produkt-chill-pill-truly-watermelon-vodovy-melon-prichut-8878.html)
   - [Big Mouth RETRO - Lime & Cherry](https://www.vaprio.sk/produkt-prichut-big-mouth-retro-limetka-a-cherry.html)
   - [Ice Flavors](#ice-flavors)
+  <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/sunny-melon-ice-final.png?raw=true" width="20%">
+  
   #### Extreme Tea Ice
   - [CHILL PILL - Iced Lemon Tea](https://www.vaprio.sk/produkt-chill-pill-ladovy-caj-s-citronom-karma-iced-lemon-tea-prichut-8879.html)
   - [Big Mouth FIZZY - Peach, Lemon. Tea](https://www.vaprio.sk/produkt-prichut-big-mouth-fizzy-broskyna-citron-caj.html)
