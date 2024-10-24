@@ -37,7 +37,8 @@ All links are for the CzechoSlovak Brand Vaprio
   - 10ml [CHILL PILL - Truly Energy Drink](https://www.vaprio.sk/produkt-chill-pill-truly-energy-drink-energeticky-napoj-prichut-8869.html)
   - 10ml [Big Mouth Classic - Ice Tea](https://www.vaprio.sk/produkt-prichut-big-mouth-classic-ice-tea-ladovy-caj.html)
   - [Ice Flavors](#ice-flavors)
-  - What may have caused the taste is the Ice Tea flavor, since it is quite strong in there. I also heard, that it alone is quite bad tasting so maybe an alternative is needed.
+  - ~~What may have caused the taste is the Ice Tea flavor, since it is quite strong in there. I also heard, that it alone is quite bad tasting so maybe an alternative is needed.~~
+  - Bullshit. The Mentol Flavor that I used made is taste like the refreshener. It has a strong chemically taste to achieve that coolness.
   <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/energi-tea-ice-final.png?raw=true" width="20%">
   
   ### Not Tested Yet
@@ -56,9 +57,8 @@ All links are for the CzechoSlovak Brand Vaprio
   - [Ice Flavors](#ice-flavors)
 
 ## Ice Flavors
-  #### 1-2.5ml [BLACK LABEL - Menthol](https://www.vaprio.sk/produkt-imperia-black-label-mentol-prichut-9135.html)
   #### 5ml [BLACK LABEL - Koolada](https://www.vaprio.sk/produkt-imperia-black-label-koolada-prichut-9138.html)
-  - Amount is based on my preference, the Menthol has quite a strong taste in there, Koolada is just freezing flavor, will go for Koolada in the future.
+  [BLACK LABEL - Menthol](https://www.vaprio.sk/produkt-imperia-black-label-mentol-prichut-9135.html) Not Recommended, Made my liquids taste like air refresheners.
 
 ## Shake & Vape/Longfills
   ### Drippin Party (These I liked from all of them)
