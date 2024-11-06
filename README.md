@@ -31,6 +31,12 @@ All links are for the CzechoSlovak Brand Vaprio
   - [Ice Flavors](#ice-flavors)
   - The Cherry has a smell of Vodka and has quite a strong taste, be careful when mixing. Will look for an alternative if I have the time.
   <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/sunny-melon-ice-final.png?raw=true" width="20%">
+
+  #### Wild Grenade Ice
+  - [CHILL PILL - Pomegranate Blast](https://www.vaprio.sk/produkt-chill-pill-granatove-jablko-malaysian-chill-pomegranate-blast-prichut.html)
+  - [Big Mouth MPG - Wild Wolf](https://www.vaprio.sk/produkt-prichut-big-mouth-mpg-lesne-plody-wild-wolf.html)
+  - The Wild Berries flavor is quite potent, so if you want more of the Pomegranate, use less of the berries.
+  - [Ice Flavors](#ice-flavors)
   
   ### Tested & Disliked
   #### Energi Tea Ice (Tastes like the smell refreshener that is put in toilet bowls)
@@ -42,10 +48,6 @@ All links are for the CzechoSlovak Brand Vaprio
   <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/energi-tea-ice-final.png?raw=true" width="20%">
   
   ### Not Tested Yet
-  #### Wild Grenade Ice
-  - [CHILL PILL - Pomegranate Blast](https://www.vaprio.sk/produkt-chill-pill-granatove-jablko-malaysian-chill-pomegranate-blast-prichut.html)
-  - [Big Mouth MPG - Wild Wolf](https://www.vaprio.sk/produkt-prichut-big-mouth-mpg-lesne-plody-wild-wolf.html)
-  - [Ice Flavors](#ice-flavors)
   #### Double Mango Ice
   - [CHILL PILL - Tropical Mango](https://www.vaprio.sk/produkt-chill-pill-tropicke-mango-hungry-wife-tropical-mango-prichut.html)
   - [Big Mouth - Jungle Mango](https://www.vaprio.sk/produkt-prichut-big-mouth-mango-a-brusnica-jungle-mango.html)
