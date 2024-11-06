@@ -58,6 +58,12 @@ All links are for the CzechoSlovak Brand Vaprio
   - [Big Mouth FIZZY - Peach, Lemon. Tea](https://www.vaprio.sk/produkt-prichut-big-mouth-fizzy-broskyna-citron-caj.html)
   - [Ice Flavors](#ice-flavors)
 
+  #### Energi Tea Ice V2
+  - 10ml [CHILL PILL - Truly Energy Drink](https://www.vaprio.sk/produkt-chill-pill-truly-energy-drink-energeticky-napoj-prichut-8869.html)
+  - 10ml [CHILL PILL - Karma (Iced Lemon Tea)](https://www.vaprio.sk/produkt-chill-pill-ladovy-caj-s-citronom-karma-iced-lemon-tea-prichut-8879.html)
+  - Changed the flavor to another and got some mixing bottles to make some smaller quantities as test, so that I do not make an abomination like the previous version.
+  - [Ice Flavors](#ice-flavors)
+
 ## Ice Flavors
   #### 5ml [BLACK LABEL - Koolada](https://www.vaprio.sk/produkt-imperia-black-label-koolada-prichut-9138.html)
   [BLACK LABEL - Menthol](https://www.vaprio.sk/produkt-imperia-black-label-mentol-prichut-9135.html) Not Recommended, Made my liquids taste like air refresheners.
