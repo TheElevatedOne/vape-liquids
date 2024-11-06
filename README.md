@@ -37,6 +37,7 @@ All links are for the CzechoSlovak Brand Vaprio
   - [Big Mouth MPG - Wild Wolf](https://www.vaprio.sk/produkt-prichut-big-mouth-mpg-lesne-plody-wild-wolf.html)
   - The Wild Berries flavor is quite potent, so if you want more of the Pomegranate, use less of the berries.
   - [Ice Flavors](#ice-flavors)
+  <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/wild-grenade-ice-final.png?raw=true" width="20%">
   
   ### Tested & Disliked
   #### Energi Tea Ice (Tastes like the smell refreshener that is put in toilet bowls)
@@ -63,6 +64,7 @@ All links are for the CzechoSlovak Brand Vaprio
   - 10ml [CHILL PILL - Karma (Iced Lemon Tea)](https://www.vaprio.sk/produkt-chill-pill-ladovy-caj-s-citronom-karma-iced-lemon-tea-prichut-8879.html)
   - Changed the flavor to another and got some mixing bottles to make some smaller quantities as test, so that I do not make an abomination like the previous version.
   - [Ice Flavors](#ice-flavors)
+  <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/energi-tea-ice-v2-final.png?raw=true" width="20%">
 
 ## Ice Flavors
   #### 5ml [BLACK LABEL - Koolada](https://www.vaprio.sk/produkt-imperia-black-label-koolada-prichut-9138.html)
