@@ -1,6 +1,6 @@
 # vape-liquids
 <p>Temporary repository for storing my vape liquid mixes, until I finally create a functional github sites page <br>
-All links are for the CzechoSlovak Brand Vaprio
+All links are for the CzechoSlovak Store Vaprio
     
 ---
 1. [Custom Mixes](#custom-mixes)
