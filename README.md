@@ -47,6 +47,14 @@ All links are for the CzechoSlovak Store Vaprio
   - ~~What may have caused the taste is the Ice Tea flavor, since it is quite strong in there. I also heard, that it alone is quite bad tasting so maybe an alternative is needed.~~
   - Bullshit. The Mentol Flavor that I used made is taste like the refreshener. It has a strong chemically taste to achieve that coolness.
   <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/energi-tea-ice-final.png?raw=true" width="20%">
+
+  #### Energi Tea Ice V2
+  - 10ml [CHILL PILL - Truly Energy Drink](https://www.vaprio.sk/produkt-chill-pill-truly-energy-drink-energeticky-napoj-prichut-8869.html)
+  - 10ml [CHILL PILL - Karma (Iced Lemon Tea)](https://www.vaprio.sk/produkt-chill-pill-ladovy-caj-s-citronom-karma-iced-lemon-tea-prichut-8879.html)
+  - Changed the flavor to another and got some mixing bottles to make some smaller quantities as test, so that I do not make an abomination like the previous version.
+  - Found out that these flavors cancel each other out almost fully and they make a weird peppermint flavor. So it tastes like a really subtle peppermint jelly (gelatine?).
+  - [Ice Flavors](#ice-flavors)
+  <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/energi-tea-ice-v2-final.png?raw=true" width="20%">
   
   ### Not Tested Yet
   #### Double Mango Ice
@@ -58,13 +66,6 @@ All links are for the CzechoSlovak Store Vaprio
   - [CHILL PILL - Iced Lemon Tea](https://www.vaprio.sk/produkt-chill-pill-ladovy-caj-s-citronom-karma-iced-lemon-tea-prichut-8879.html)
   - [Big Mouth FIZZY - Peach, Lemon. Tea](https://www.vaprio.sk/produkt-prichut-big-mouth-fizzy-broskyna-citron-caj.html)
   - [Ice Flavors](#ice-flavors)
-
-  #### Energi Tea Ice V2
-  - 10ml [CHILL PILL - Truly Energy Drink](https://www.vaprio.sk/produkt-chill-pill-truly-energy-drink-energeticky-napoj-prichut-8869.html)
-  - 10ml [CHILL PILL - Karma (Iced Lemon Tea)](https://www.vaprio.sk/produkt-chill-pill-ladovy-caj-s-citronom-karma-iced-lemon-tea-prichut-8879.html)
-  - Changed the flavor to another and got some mixing bottles to make some smaller quantities as test, so that I do not make an abomination like the previous version.
-  - [Ice Flavors](#ice-flavors)
-  <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/energi-tea-ice-v2-final.png?raw=true" width="20%">
 
 ## Ice Flavors
   #### 5ml [BLACK LABEL - Koolada](https://www.vaprio.sk/produkt-imperia-black-label-koolada-prichut-9138.html)
