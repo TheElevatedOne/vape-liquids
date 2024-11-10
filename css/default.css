@@ -1,0 +1,109 @@
+body {
+    background-color: rgba(24, 26, 27, 255);
+    color: rgb(235, 235, 235);
+    margin: 0 auto;
+    overflow-x: hidden;
+    cursor: default;
+    word-wrap: break-word;
+    max-width: 1012px;
+}
+
+a:link {
+    color: rgb(255, 200, 200);
+}
+
+a:visited {
+    color: rgb(255, 0, 0)
+}
+
+.header {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.title {
+    display: block;
+    position: relative;
+    padding: 1%;
+    font-size: 6vh;
+}
+
+.subtitle {
+    display: block;
+    white-space: pre-line;
+    font-size: 2vh;
+}
+
+.navigation {
+    display: block;
+    position: relative;
+    & > span {
+        display: block;
+        font-size: 4vh;
+        text-align: center;
+        padding-top: 2vh;
+        font-weight: bold;
+    }
+}
+
+ol {
+    & > li {
+        display: block;
+        max-width: fit-content;
+        transition: 0.3s ease-in-out;
+        & > ul {
+            & > li {
+                display: block;
+                transition: 0.3s ease-in-out;
+                max-width: fit-content;
+            }
+            & > li::before {
+                content: "- ";
+                font-size: 2.3vh;
+            }
+            & > li:hover {
+                background-color: rgba(255, 200, 200, 0.2);
+                max-width: fit-content;
+                max-height: min-content;
+                border-radius: 15px;
+                padding-left: 7.5px;
+                padding-right: 7.5px;
+                padding-top: 4px;
+                padding-bottom: 5px;
+                margin-top: 5px;
+            }
+        }
+    }
+    & > li:hover {
+        background-color: rgba(255, 255, 255, 0.1);
+        border-radius: 25px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 8px;
+        padding-bottom: 10px;
+        margin-top: 10px;
+        max-width: fit-content;
+        max-height: min-content;
+    }
+    counter-reset: item;
+    & > li::before {
+        content: counter(item, upper-roman) ". ";
+        counter-increment: item;
+        font-size: 2.5vh;
+        color: rgb(255, 150, 150);
+        text-decoration: underline white;
+    }
+}
+
+
+.ordered {
+    font-size: 2.5vh;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.unordered {
+    font-size: 2.3vh;
+    cursor: pointer;
+}

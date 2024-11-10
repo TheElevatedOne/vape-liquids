@@ -1,23 +1,33 @@
 <!doctype html>
 <html>
-  <head></head>
-  <body>
-    <h1 id="vape-liquids">vape-liquids</h1>
-    <p>
-    <p>Temporary repository for storing my vape liquid mixes, until I finally create a functional github sites page <br> All links are for the CzechoSlovak Store Vaprio</p>
-    <hr>
-    <ol>
-      <li><a href="#custom-mixes">Custom Mixes</a>
-        <ul>
-          <li><a href="#tested--liked">Tested &amp; Liked</a></li>
-          <li><a href="#tested--disliked">Tested &amp; Disliked</a></li>
-          <li><a href="#not-tested-yer">Not Tested Yet</a></li>
-        </ul>
-      </li>
-      <li><a href="#ice-flavors">Ice Flavors (to go along with Longfills or Custom)</a></li>
-      <li><a href="#shake--vapelongfills">Shake &amp; Vape/Longfills</a></li>
-      <li><a href="#vape-liquids">Basic 10ml Vape Liquids</a></li>
-    </ol>
+  <head>
+    <link rel="stylesheet" href="./css/default.css">
+    <script src="./js/width.js"></script>
+    <script src="./js/navigation.js"></script>
+  </head>
+  <body id="body">
+    <div class="header">
+        <h1 id="title" class="title">Vape Liquids</h1>
+        <p class="subtitle">Website for storing my Vape Recipes &amp; My Favorite Liquids and Longfills</p>
+        <p class="subtitle" style="text-decoration: underline;">DISCLAIMER: All links are for the CzechoSlovak Store Vaprio</p>
+        <p class="subtitle" style="font-size: 4vh;"> Site is WIP</p>
+      <hr>
+    </div>
+    <div class="navigation">
+      <span>Navigation</span>
+      <ol>
+        <li><span class="ordered" onclick="customMixes()">Custom Mixes</span>
+          <ul>
+            <li><span class="unordered" onclick="testedLiked()">Tested &amp; Liked</span></li>
+            <li><span class="unordered" onclick="testedDisliked()">Tested &amp; Disliked</span></li>
+            <li><span class="unordered" onclick="notTestedYet()">Not Tested Yet</span></li>
+          </ul>
+        </li>
+        <li><span class="ordered" onclick="iceFlavors()">Ice Flavors (to go along with Longfills or Custom)</span></li>
+        <li><span class="ordered" onclick="longFills()">Shake &amp; Vape/Longfills</span></li>
+        <li><span class="ordered" onclick="vapeLiquids()">Basic 10ml Vape Liquids</span></li>
+      </ol>
+    </div>
     <hr>
     <h2 id="custom-mixes">Custom Mixes</h2>
     <h3 id="tested-liked">Tested &amp; Liked</h3>
