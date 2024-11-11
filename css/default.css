@@ -156,7 +156,7 @@ ol {
 
 .eti-bad {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr min-content 1fr;
     grid-template-rows: fit-content 1fr;
     gap: 10px;
     padding-left: 40px;
@@ -166,6 +166,17 @@ ol {
     align-content: center;
     & > img {
         width: 80%;
+    }
+    & > ul > p.version {
+        font-weight: bold;
+        font-size: 2.5vh;
+        text-align: center;
+        padding-right: 1.5em;
+    }
+    & > div.vr {
+        width: 2px;
+        background-color: white;
+        opacity: 0.5;
     }
 }
 

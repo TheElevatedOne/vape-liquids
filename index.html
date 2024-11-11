@@ -12,7 +12,7 @@
 			<h1 id="title" class="title">Vape Liquids</h1>
 			<p class="subtitle">Website for storing my Vape Recipes &amp; My Favorite Liquids and Longfills</p>
 			<p class="subtitle" style="text-decoration: underline;">DISCLAIMER: All links are for the CzechoSlovak Store Vaprio</p>
-			<p class="subtitle" style="font-size: 4vh;"> Site is WIP</p>
+            <br>
 			<hr>
 		</div>
 		<div class="navigation">
@@ -41,8 +41,12 @@
 				<li>
                     <span class="ordered" onclick="vapeLiquids()">Basic 10ml Vape Liquids</span>
                 </li>
+                <li>
+                    <span class="ordered" onclick="info()">Additional Information</span>
+                </li>
 			</ol>
 		</div>
+        <br>
 		<hr>
         <span class="custom-mixes" id="custom-mixes">Custom Mixes</span>
         <div>
@@ -176,9 +180,9 @@
             </div>
             <hr style="width: 97%; opacity: 0.7;">
             <span class="custom-types" id="tested-disliked">Tested &amp; Disliked</span>
-            <p class="mix-title" id="energi-tea-ice">Energi Tea Ice V1 &amp; V2</p>
+            <p class="mix-title" id="energi-tea-ice" style="font-size: 2.7vh; margin-bottom: 0;">Energi Tea Ice</p>
             <div class="eti-bad" id="eti">
-                <ul><p style="font-weight: bold; text-align: center; font-size: 3vh;">V1</p>
+                <ul><p class="version">Version 1</p>
                     <li>10ml
                         <a href="https://www.vaprio.sk/produkt-chill-pill-truly-energy-drink-energeticky-napoj-prichut-8869.html">CHILL PILL - Truly Energy Drink</a>
                     </li>
@@ -201,7 +205,8 @@
                         </p>
                     </li>
                 </ul>
-                <ul><p style="font-weight: bold; text-align: center; font-size: 3vh;">V2</p>
+                <div class="vr" style="height: 96%; display: block; position: relative; top: calc(4% + 10px);"></div>
+                <ul><p class="version">Version 2</p>
                     <li>10ml
                         <a href="https://www.vaprio.sk/produkt-chill-pill-truly-energy-drink-energeticky-napoj-prichut-8869.html">CHILL PILL - Truly Energy Drink</a>
                     </li>
@@ -215,10 +220,13 @@
                     </li>
                     <li>
                         <p>Changed to the good ice flavor and different tea flavor.</p>
+                    </li>
+                    <li>
                         <p>Found out that these flavors cancel each other out almost fully and they make a weird peppermint flavor. So it tastes like a really subtle peppermint jelly (gelatine?).</p>
                     </li>
                 </ul>
                 <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/energi-tea-ice-final.png?raw=true" width="20%">
+                <div class="vr"></div>
                 <img src="https://github.com/TheElevatedOne/vape-liquids/blob/main/covers/energi-tea-ice-v2-final.png?raw=true" width="20%">
             </div>
             <hr style="width: 97%; opacity: 0.7;">
@@ -226,6 +234,7 @@
             <div class="mix-title">
                 <p>Currently None</p>
             </div>
+        <br>
         </div>
         <hr>
 		<span class="custom-mixes" id="ice-flavors">Ice Flavors</span>
@@ -259,6 +268,7 @@
                     </span>
                 </li>
             </ul>
+        <br>
         <hr>
 		<span class="custom-mixes" id="shake-vape-longfills">Shake &amp; Vape/Longfills</span>
 		<span class="custom-types" id="drippin-party">Drippin Party (These I liked from all of them)</span>
@@ -288,6 +298,12 @@
                     <a href="https://www.vaprio.sk/produkt-zap-juice-aisu-ladove-zelene-jablko-green-apple-shake-and-vape-10ml-8974.html">Green Apple</a>
                 </li>
 			</ul>
+        <span class="custom-types" id="ivg">IVG</span>
+            <ul>
+                <li>Cola Ice</li>
+                <li>Green Energy</li>
+            </ul>
+        <br>
         <hr>
 		<span class="custom-mixes" id="vape-liquids">Vape Liquids</span>
         <ul>
@@ -309,6 +325,18 @@
                     (I liked their drink flavors) [Nicotine Salt | 10mg &amp; 20mg]
                 </p>
             </li>
+        </ul>
+        <br>
+        <hr>
+        <span class="custom-mixes" id="info">Additional Information</span>
+        <ul>
+            <li>
+                <p>I like my mixes quite strong in taste, so the percetages can be changed willingly.</p>
+            </li>
+            <li>
+                <p>As I said in the site header, all links are for the site Vaprio, since that's where I order from mostly.</p>
+            </li>
+            <br>
         </ul>
 	</body>
 </html>
